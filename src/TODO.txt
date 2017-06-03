@@ -1,0 +1,7 @@
+TODO
+Weapon Factory Ok
+NPCs Objects and Factories Ok
+PCs stats implementation Ok
+Weapons stats Ok
+Interct stats of weapons with characters Ok
+	 	
